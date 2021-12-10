@@ -6,3 +6,5 @@ simpily call the following function:
 
 higher values mean higher similarity
 ![Images](https://github.com/amirshamaei/Similarity-Matrix-Calculation-and-Visualization-of-MRS/blob/main/name32_similarity%20.png)
+
+This project has received funding from the European Union's Horizon 2020 research and innovation program under the Marie Sklodowska-Curie grant agreement No 813120.
